@@ -1,0 +1,9 @@
+[submodule "oskernel2026-kksc03"]
+	path = oskernel2026-kksc03
+	url = https://gitlab.eduxiji.net/T2026103369910012/oskernel2026-kksc03.git
+[submodule "testsuits-for-oskernel"]
+	path = testsuits-for-oskernel
+	url = https://github.com/SOLECA794/testsuits-for-oskernel.git
+[submodule "StarryOS"]
+	path = StarryOS
+	url = https://github.com/SOLECA794/StarryOS.git
